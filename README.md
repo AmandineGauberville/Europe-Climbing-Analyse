@@ -19,7 +19,7 @@ My analysis includes all Europe and ratings.
 
 <a name="hypotheses-/-questions"></a>
 
-## 1 Dataset
+## Dataset
 
 Dataset was load from the website mountainproject :
 [Dataset](https://www.mountainproject.com/) 
