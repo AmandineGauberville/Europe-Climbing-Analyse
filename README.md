@@ -2,7 +2,7 @@
 # Mini-Project | Module 2 mini-project 2 : EDA Climbing in Europe
 Amandine GAUBERVILLE
 
-*[Data analytics PT, Paris & 04/10/2021]*
+*[Le 04/10/2021]*
 
 ## Content
 - [Project Description](#project-description)
