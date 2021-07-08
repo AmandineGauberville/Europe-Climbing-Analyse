@@ -1,5 +1,5 @@
 
-# Mini-Project | EDA Climbing in Europe - Amandine GAUBERVILLE
+# Project | EDA Climbing in Europe - Amandine GAUBERVILLE
 *[Le 04/10/2021]*
 
 ![image](https://user-images.githubusercontent.com/68965669/124923094-6a1c7500-dffa-11eb-8ba8-5af54259d32a.png)
